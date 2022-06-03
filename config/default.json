@@ -1,0 +1,6 @@
+{
+  "port": 7777,
+  "mongoUri": "mongodb+srv://RoyHaus:qwe12345@cluster0.3meyr.mongodb.net/Roy?retryWrites=true&w=majority",
+  "bcrypt": 5,
+  "SecretKay": "$tqw@er@tg@nd@ub@vdm$"
+}
